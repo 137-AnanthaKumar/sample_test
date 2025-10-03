@@ -1,0 +1,13 @@
+ZATH Custom Encryption Logic.
+
+Here meanings of ZATH logics based on letters
+
+A - How are you?
+B - where are you?
+C - I am good!
+D - When it get over?
+E - Make proper!
+
+A means How are you
+B means where are you
+like this C to E meanings are mentioned above.
