@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<localization>>
+<localization>
 	<string id="Title">Spell Check</string>
 	<string id="NoPermission">You don't have permission to access this page or your cookie has expired!<br />Please, refresh the page!</string>
 	<string id="Tab1HeaderText">Spell Check</string>
